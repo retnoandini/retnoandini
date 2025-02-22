@@ -1,5 +1,7 @@
-[![MasterHead](file:///C:/Users/Lenovo/Downloads/AnasAbdin.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Retno Andini</h1>
+
+<h1 align="![AnasAbdin](https://github.com/user-attachments/assets/0366b755-2b1b-473c-8319-3f5b058641ba)
+center">Hi 👋, I'm Retno Andini
+ Retno Andini</h1>
 <h3 align="center">A passionate Graphic Designer from Indonesia</h3> 
 - 🌱 I’m currently learning **Html, CSS**
 
