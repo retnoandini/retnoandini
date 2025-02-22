@@ -1,5 +1,4 @@
-[![MasterHead](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22AnasAbdin.gif%22%2C%22type%22%3A%22image%2Fgif%22%2C%22signedurl_expire%22%3A%222028-02-22T07%3A19%3A00.669Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fecb999a413a44e64%2FAnasAbdin.gif%3FExpires%3D1834816741%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DEq1K4qRLBBjaOydyfAl5teV8XS~eSLxbz~kd7sCsMXelIBgojeGzWmm0Pktwqyu5Icpwjql5z~LeiTkL1GTagU5hKGJ8QWHlbEeqFsFI2cUxDZ1g55Mgs4UwWJbC0PUhhqpPkNAj~FovRAlzc6hYBiIfpMecJ5WnZEce~NSWrPhsupC63e~A9rrzO9V4gDSigf1oQfx0MW8K7k194pYJPBzztF~nD3F84RCYLkF95dzGH80H2jtK1WycBK3Y4yDXAw96VAjRVdopcmjGZmaUtR-6ofbnb2HC9Py9Yg6ywjmHTk5P-LL1OKHk3uH-KFoZuOZcq8JYX~SefrNguv-xRw__%22%7D)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h1 align="center">Hi 👋, I'm Retno Andini</h1>
  Retno Andini</h1>
 <h3 align="center">A passionate Graphic Designer from Indonesia</h3> 
 - 🌱 I’m currently learning **Html, CSS**
