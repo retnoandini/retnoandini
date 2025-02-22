@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Retno Andini</h1>
- Retno Andini</h1>
 <h3 align="center">A passionate Graphic Designer from Indonesia</h3> 
 - 🌱 I’m currently learning **Html, CSS**
 
